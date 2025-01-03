@@ -1,3 +1,2 @@
-# DifferentiableIndirection
-# Official code: https://github.com/facebookresearch/differentiable-indirection
-# Website: https://sayan1an.github.io/din.html
+# Moved to: https://github.com/sayan1an/differentiable_indirection
+
